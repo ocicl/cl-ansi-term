@@ -2,9 +2,8 @@
 
 Colorized output on ANSI terminals and more
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/vindarel/cl-ansi-term.git   |
-| commit  | a45fc11  |
-| systems | cl-ansi-term |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/vindarel/cl-ansi-term.git |
+| commit  | dafafa9                                          |
+| systems | cl-ansi-term                                     |
+|---------+--------------------------------------------------|
