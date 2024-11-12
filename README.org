@@ -4,6 +4,6 @@ Colorized output on ANSI terminals and more
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/vindarel/cl-ansi-term.git |
-| commit  | 43c5414                                          |
+| commit  | d989bd9                                          |
 | systems | cl-ansi-term                                     |
 |---------+--------------------------------------------------|
